@@ -323,7 +323,7 @@ results_df, metrics_df, importance_df = load_data()
 
 # Title
 st.title("🤖 Prediksi Tingkat Kepuasan Pengguna AI Assistant")
-st.markdown("<div style='text-align: center; margin-bottom: 30px;'><h3 style='color: #2c3e50;'>Perbandingan Random Forest Regression & Gradient Boosting Regression</h3><p style='color: #666; font-size: 14px;'>Deep Learning Project</p></div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; margin-bottom: 30px;'><h3 style='color: #2c3e50;'>Perbandingan Random Forest Regression & Gradient Boosting Regression</h3><p style='color: #666; font-size: 14px;'>Big Data Project</p></div>", unsafe_allow_html=True)
 st.markdown("---")
 
 # Sidebar
@@ -627,4 +627,5 @@ elif page == "📋 Project Info":
 
 # Footer
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #999;'>© 2025 - Deep Learning Project | 🏆 Best Model: Gradient Boosting Regression</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #999;'>© 2025 - Big Data Project | 🏆 Best Model: Gradient Boosting Regression</div>", unsafe_allow_html=True)
+
